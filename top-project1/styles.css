@@ -33,12 +33,17 @@ body {
 
 .logo {
   font-size: 23px;
+  font-weight: 700;
   color: white;
 }
 
 .header-bottom {
   display: flex;
   padding-bottom: 75px;
+}
+
+.spacing {
+  flex: 1;
 }
 
 .hero-main-text {
@@ -79,7 +84,7 @@ ul {
 a {
   text-decoration: none;
   color: #E5E7EB;
-  font-weight: lighter;
+  font-weight: 200;
 }
 
 .main {
