@@ -31,10 +31,8 @@ body {
   padding-bottom: 75px;
 }
 
-.logo {
-  font-size: 23px;
-  font-weight: 700;
-  color: white;
+.header-logo {
+  height: 90px;
 }
 
 .header-bottom {
